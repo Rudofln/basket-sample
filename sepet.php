@@ -6,7 +6,7 @@ header('content-type: text/html; charset=utf8');
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title>PHP Alışveriş Sepeti (DEMO) - $prototürk</title>
+	<title>PHP Alışveriş Sepeti</title>
 </head>
 <body>
 
